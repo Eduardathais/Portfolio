@@ -1,6 +1,12 @@
+@font-face {
+  font-family: 'Fira Sans';
+  src: URL('../font/FiraSans-Bold.ttf') format('truetype');
+  src: URL('../font/FiraSans-Regular.ttf') format('truetype');
+}
+
 body {
   margin: 0px;
-  font-family: 'Fira Sans, Arial, sans-serif';
+  font-family: 'Fira Sans';
   color: #141414;
 }
 
